@@ -41,3 +41,13 @@
 
 ### 5.交易所
 了解和学习去中心化交易所的一些基本概念。
+
+
+![helper1](helper-crypto-1.png)
+![helper1](helper-blockchain-1.png)
+![helper1](helper-blockchain-3.png)
+![helper1](helper-token-1-1.png)
+![helper1](helper-token-1-2.png)
+![helper1](helper-token-2-1.png)
+![t-2-2](helper-token-2-2.png)
+![w1](helper-wallet-1.png)
