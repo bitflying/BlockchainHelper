@@ -43,8 +43,9 @@
 了解和学习去中心化交易所的一些基本概念。
 
 
-![helper1](helper-crypto-1.png)
+![helper1](helper-crypto-1.png =50x50)
 ![helper1](helper-blockchain-1.png)
+<img src="helper-blockchain-3.png" alt="drawing" width="320" height="200"/>
 ![helper1](helper-blockchain-3.png)
 ![helper1](helper-token-1-1.png)
 ![helper1](helper-token-1-2.png)
