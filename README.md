@@ -3,7 +3,7 @@
 
 [下载区块链学习助手0.1版](https://github.com/bitflying/BlockchainHelper/releases/download/v0.1/BlockchainHelper.app.zip)
 
-[如有高见，不吝赐教] (mailto:648254052@qq.com)
+如有高见，不吝赐教。 意见和建议发往：648254052@qq.com
 
 ## 突出特点
 * 通过实际操作，学习区块链相关概念
