@@ -42,9 +42,11 @@
 ### 5.交易所
 了解和学习去中心化交易所的一些基本概念。
 
-<img src="helper-crypto-1.png" alt="drawing" width="490" height="300"/>
-<img src="helper-blockchain-1.png" alt="drawing" width="490" height="300"/>
-<img src="helper-blockchain-3.png" alt="drawing" width="490" height="300"/>
+<!-- <img src="helper-crypto-1.png" alt="drawing" width="490" height="300"/> -->
+<img src="helper-crypto.gif" alt="drawing" width="550" height="338"/>
+<!-- <img src="helper-blockchain-1.png" alt="drawing" width="490" height="300"/> -->
+<!-- <img src="helper-blockchain-3.png" alt="drawing" width="490" height="300"/> -->
+<img src="helper-blockchain.gif" alt="drawing" width="550" height="338"/>
 <img src="helper-token-1-1.png" alt="drawing" width="490" height="300"/>
 <img src="helper-token-1-2.png" alt="drawing" width="490" height="300"/>
 <img src="helper-token-2-1.png" alt="drawing" width="490" height="300"/>
